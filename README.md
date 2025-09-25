@@ -15,8 +15,8 @@
 ### Сборка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-пользователь/filesorter.git
-   cd filesorter
+   https://gitverse.ru/lukasjohancen/FileSorter
+   cd FileSorter
    ```
 
 2. Соберите проект:
