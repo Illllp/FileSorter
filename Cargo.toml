@@ -1,0 +1,13 @@
+[package]
+name = "photo_sorter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4"
+regex = "1"
+once_cell = "1.18"
+
+# Для компиляции .exe в linux
+# [target.x86_64-pc-windows-gnu]
+# linker = "x86_64-w64-mingw32-gcc"
