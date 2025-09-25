@@ -15,7 +15,7 @@
 ### Сборка
 1. Клонируйте репозиторий:
    ```bash
-   https://gitverse.ru/lukasjohancen/FileSorter
+   git clone https://gitverse.ru/lukasjohancen/FileSorter
    cd FileSorter
    ```
 
